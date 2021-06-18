@@ -1,0 +1,33 @@
+body{
+  background-color: #EAF6F6;;
+}
+
+h1{
+  color:#66BFBF;
+}
+h3
+{
+  color:#66BFBF;
+}
+
+#hr1
+{  height: 0px;
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5% ;
+  /* width: 10px;
+  width: 10px; */
+  background-color: white;
+
+}
+.img_profile{
+  background-color: absolute;
+  width: 200px;
+  height: 250px;
+}
+.level{
+  width: 10px;
+  height: 20px;
+}
